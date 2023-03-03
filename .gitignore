@@ -81,6 +81,13 @@ typings/
 # Nuxt.js build / generate output
 .nuxt
 dist
+build
+
+# MacOS
+.DS_Store
+
+# package lock
+package-lock.json
 
 # Gatsby files
 .cache/
